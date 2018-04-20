@@ -1,0 +1,17 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "MERN stack to do app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MERN"
+  ],
+  "author": "Abhijeet Vhotkar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
